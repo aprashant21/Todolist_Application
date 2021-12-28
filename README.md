@@ -20,7 +20,7 @@
 <img src="images/about.jpg" alt="ABOUT IMAGE" height="500px" width="300px" />
 </div>
 <div class="col-md-6">
-<img src="images/contact_ss.gif" alt="ABOUT CONTACT" height="500px" width="300px" />
+<img src="images/contact_ss.gif" height="500px" width="300px" />
 </div>
 <div class="col-md-6">
 <img src="images/complete_delete_task.jpg" alt="DELETE TASK" height="500px" width="300px" />
