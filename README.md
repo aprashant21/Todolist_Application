@@ -40,6 +40,8 @@ You can see that contact information is in the contact dialog box and there are 
 
 IMPLICT INTENT in the form of emailing in the email as shown in below:
 
+<img src="images/images.jpg" alt="implicit" height="400px" width="200px" /> 
+
 
 After adding task, todo list is full of task and if we want to delete some task, we can click in the radio button upper left side. After checking the radio button, a Dialog box is opened. There are two option in the dialog box "COMPLTED" and "CANCEL".
 
