@@ -8,11 +8,13 @@ This is a Single Page Application. There is only one mainActivity and two fragme
 
 At First, TODOLIST fragment is added in the middle by Fragmentmanager and then after clicking on the add button below it is replaced.
 
-There is no data at first as showing in the below images:
+There is no task at first as showing in the below images:
 
 <img src="images/no_data.jpg" alt="no_data_image" height="400px" width="200px" />     <img src="images/no_data.gif" alt="no_data_image" height="400px" width="200px" /> 
 
+After clicking in the plus button, Frame layout is replaced using Fragment manager and we can see the only center view is changed and we are in the TODOADD fragment. 
 
+Task can be added in the following ways as shown in image below:
 
 <img src="images/add_task.jpg" alt="ADD TASK IMAGE" height="400px" width="200px" />     <img src="images/add_task.gif" alt="ADD TASK GIF" height="400px" width="200px" />
 
